@@ -1,2 +1,3 @@
 # RevCraft
-Cloud-Native Car Builder &amp; Analytics Platform
+
+Cloud-Native Car Builder & Analytics Platform. RevCraft project repository.
