@@ -194,6 +194,3 @@ Score = 0.35·HP + 0.20·Speed + 0.15·Handling + 0.15·Acceleration + 0.10·Tor
 
 ---
 
-## 📜 License
-
-MIT
