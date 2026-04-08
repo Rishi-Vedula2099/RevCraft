@@ -255,10 +255,6 @@ export default function ConfigPanel() {
         <SelectField label="Weight Reduction" value={config.weight_reduction} options={WEIGHT_REDUCTIONS} onChange={(v) => handleChange({ weight_reduction: v })} />
       </div>
 
-      {/* AI Insights button */}
-      <button className="btn btn-secondary" style={{ width: "100%" }} onClick={handleGetInsights}>
-        🤖 Generate AI Insights
-      </button>
     </div>
   );
 }
